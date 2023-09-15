@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-BC5REOdNzDU/XdW2Q3tTYFI/AAAAAAAAEao/wCTMj7VtRU4kUEBMBvFB_bYC90TqeWXEgCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-BC5REOdNzDU/XdW2Q3tTYFI/AAAAAAAAEao/wCTMj7VtRU4kUEBMBvFB_bYC90TqeWXEgCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Rudy</h1>
 <h3 align="center">A passionate Android developer from France</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVxbTllOTlwc2xvZnMzdnd1emY0MXQ3dG81a3h5bWVkcnpyc2E3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fjgccj3kdQXKl8Ekil/giphy.gif">
